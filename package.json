@@ -1,0 +1,27 @@
+{
+  "name": "bus-booking-app",
+  "version": "1.0.0",
+  "description": "introduce relationships between tables using foreign keys in Sequelize. By creating associations, we ensure that data is linked properly, allowing efficient queries and management of related records.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitZaidHub/Bus-Booking-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GitZaidHub/Bus-Booking-App/issues"
+  },
+  "homepage": "https://github.com/GitZaidHub/Bus-Booking-App#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.5",
+    "sequelize": "^6.37.8"
+  }
+}
